@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+  <Student id="SV001">
+    <Name>Nguyễn Văn A</Name>
+    <BirthYear>2005</BirthYear>
+    <Class>CTK47A</Class>
+    <Gender>Nam</Gender>
+  </Student>
+
+  <Student id="SV002">
+    <Name>Trần Thị B</Name>
+    <BirthYear>2004</BirthYear>
+    <Class>CTK47B</Class>
+    <Gender>Nữ</Gender>
+  </Student>
+</Students>

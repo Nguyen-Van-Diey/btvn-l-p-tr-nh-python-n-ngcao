@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Danh sách sinh viên -->
+<Students>
+  
+  <Student id="SV001">
+    <Name>Nguyễn Văn A</Name>
+    <BirthYear>2005</BirthYear>
+    <Class>CTK47A</Class>
+    <Gender>Nam</Gender>
+  </Student>
+
+  <Student id="SV002">
+    <Name>Trần Thị B</Name>
+    <BirthYear>2004</BirthYear>
+    <Class>CTK47A</Class>
+    <Gender>Nữ</Gender>
+  </Student>
+
+  <Student id="SV003">
+    <Name>Lê Văn C</Name>
+    <BirthYear>2005</BirthYear>
+    <Class>CTK47B</Class>
+    <Gender>Nam</Gender>
+  </Student>
+
+  <Student id="SV004">
+    <Name>Phạm Thị D</Name>
+    <BirthYear>2003</BirthYear>
+    <Class>CTK47C</Class>
+    <Gender>Nữ</Gender>
+  </Student>
+
+</Students>

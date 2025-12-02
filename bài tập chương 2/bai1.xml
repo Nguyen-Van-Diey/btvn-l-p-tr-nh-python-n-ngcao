@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Thông tin công ty -->
+<Company id="C001">
+  <Name>CTCP Ví dụ ABC</Name>
+
+  <Director>
+    <FullName>Nguyễn Văn A</FullName>
+    <Title>Giám đốc điều hành</Title>
+  </Director>
+
+  <Address>
+    <Street>Số 10, Đường Lê Lợi</Street>
+    <Ward>Phường Bến Nghé</Ward>
+    <District>Quận 1</District>
+    <City>Thành phố Hồ Chí Minh</City>
+    <PostalCode>700000</PostalCode>
+    <Country>Việt Nam</Country>
+  </Address>
+
+  <Contacts>
+    <Phone type="office">+84-28-1234-5678</Phone>
+    <Phone type="mobile">+84-9XX-XXX-XXX</Phone>
+    <Email>info@example.com</Email>
+    <Website>https://www.example.com</Website>
+  </Contacts>
+
+  <Tax>
+    <TaxID>0123456789</TaxID>
+    <TaxOffice>Sở Thuế TP.HCM</TaxOffice>
+    <RegisteredDate>2010-05-20</RegisteredDate>
+  </Tax>
+
+  <!-- Có thể thêm node khác như Branches, Employees, BusinessLines... -->
+</Company>

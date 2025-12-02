@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<company>
+    <name>GeeksForGeeks</name>
+    <saff id = "1">
+        <name>Amar Pandey</name>
+        <salary>8.5 LPA</salary>
+    </saff>
+    <saff id = "2">
+        <name>Akbhar khan</name>
+        <salary>6.5 LPA</salary>
+    </saff>
+    <saff id = "3">
+        <name>Anthony Walter</name>
+        <salary>3.2 LPA</salary>
+    </saff>
+</company>
